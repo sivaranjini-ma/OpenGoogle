@@ -1,7 +1,6 @@
 OpenGoogle
 
-steps
-
+steps:
 1.user downloads eclipse
 2.user download webdriver chrome driver
 3.user downloads selenium jars and other required libraries
@@ -11,3 +10,4 @@ steps
 7.user sets system.set property
 8.user creates object for webdriver
 9.Google chrome launched successfully
+10.user provides driver.quit to close the browser
