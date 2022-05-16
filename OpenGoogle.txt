@@ -1,0 +1,8 @@
+OpenGoogle
+
+steps
+
+1. user download webdriver
+2.user downloads eclipse
+3.user downloads selenium jars and other required libraries
+4.user launches eclipse
